@@ -1,6 +1,6 @@
 # peizi
 
-> study peizi
+> vue-master-spa
 
 ## Build Setup
 
